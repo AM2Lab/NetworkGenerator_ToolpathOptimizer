@@ -1,5 +1,5 @@
 We hope our Grasshopper codes are valuable to the generation of your channel networks and/or toolpaths for 3D-printing.
-<br>The following videos explain the structure of the scripts and how to use them:
+The following videos explain the structure of the scripts and how to use them:
 <ul>
   <li>SingleChannel_ToolpathAngle_v1: [url coming soon]</li>
   <li>NetworkGenerator_ToolpathAngle_v1: [url coming soon]</li>
